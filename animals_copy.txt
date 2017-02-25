@@ -1,0 +1,11 @@
+wildcat
+gato
+perro
+jaguar
+oso
+tigre
+snake
+lion
+eagle
+owl
+python
